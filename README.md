@@ -19,5 +19,5 @@ A Python utility designed to fetch detailed information from Discord invite code
 
 ## Requirements
 
-* Python 3.8 or higher
+* Python 3.11 or higher
 * `requests` & `platform` & `colorama` libraries
